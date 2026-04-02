@@ -1,0 +1,3 @@
+DATASET:
+  NAME: "ImageNet"
+  class_descriptor_path: "./descriptors/descriptors_imagenet_backup.json"

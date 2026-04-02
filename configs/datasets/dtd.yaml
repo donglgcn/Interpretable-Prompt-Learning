@@ -1,0 +1,7 @@
+DATASET:
+  NAME: "DescribableTextures"
+  class_descriptor_path: "./descriptors/descriptors/descriptors_dtd.json"
+  class_attributes_path: "./imagedistribution_attributes/dtd-imagedistribution-attributes-GPT3.json"
+  class_contexts_path: "./imagedistribution_attributes/dtd-imagedistribution-contexts-GPT3.json"
+  class_embeddings_path: "./imagedistribution_attributes/dtd/"
+  class_captions_path: "./imagedistribution_attributes/dtd/"

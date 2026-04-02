@@ -1,0 +1,7 @@
+DATASET:
+  NAME: "EuroSAT"
+  # class_descriptor_path: "./descriptors/descriptors_eurosat_backup.json"
+  # class_attributes_path: "./imagedistribution_attributes/eurosat-imagedistribution-attributes-GPT3.json"
+  # class_contexts_path: "./imagedistribution_attributes/eurosat-imagedistribution-contexts-GPT3.json"
+  # class_embeddings_path: "./imagedistribution_attributes/eurosat/"
+  # class_captions_path: "./imagedistribution_attributes/eurosat/"

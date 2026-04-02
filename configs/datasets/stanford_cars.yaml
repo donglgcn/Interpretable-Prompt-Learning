@@ -1,0 +1,3 @@
+DATASET:
+  NAME: "StanfordCars"
+  class_descriptor_path: "./descriptors/descriptor_stanfordcars.json"

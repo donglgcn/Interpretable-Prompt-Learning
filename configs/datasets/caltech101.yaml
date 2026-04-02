@@ -1,0 +1,3 @@
+DATASET:
+  NAME: "Caltech101"
+  class_descriptor_path: "./descriptors/descriptor_caltech101_backup.json"
