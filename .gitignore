@@ -15,6 +15,12 @@ lpclip/
 output/
 textDiscriminator/
 ./*.py
+scripts/
+nohup.out
+backdoor_*.py
+COOP.md
+DATASET.md
+
 
 # C extensions
 *.so
