@@ -5,13 +5,16 @@ This code is built on top of the awesome toolbox [Dassl.pytorch](https://github.
 
 ## How to Run
 
+### Generate Descriptions
+Please refer to the `gpt4-v.py` to generate target few-shot descriptors.
+
 ### Few-Shot Learning
 
 You can refer to the `food_coop_b16.sh` as an example.
 
-`DATASET` takes as input a dataset name, like `imagenet` or `caltech101`. The valid names are the files' names in `CoOp/configs/datasets/`.
+`DATASET` takes as input a dataset name, like `food101`. The valid names are the files' names in `configs/datasets/`.
 
-`CFG` means which config file to use, such as `rn50`, `rn101` or `vit_b32` (see `CoOp/configs/trainers/CoOp/`). Note that for ImageNet, we use `CoOp/configs/trainers/CoOp/*_ep50.yaml` for all settings (please follow the implementation details shown in the paper).
+`CFG` means which config file to use, such as `rn50`, `rn101` or `vit_b32` (see `configs/trainers/CoOp/`).
 
 
 
